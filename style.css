@@ -1,0 +1,23 @@
+html {
+    font-family: 'Oswald', sans-serif;
+    background-color: maroon;
+}
+
+
+div.calculator {
+    width: 45%;
+    margin-top: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 20px;
+    padding: 50px 100px 100px 200px;
+    background-color: white;
+    font-size: 20px;
+}
+
+button#calculate_area {
+    border-radius: 15px;
+    font-size: 20px;
+    background-color: lightpink;
+    border: 2px solid lightsteelblue;
+}
